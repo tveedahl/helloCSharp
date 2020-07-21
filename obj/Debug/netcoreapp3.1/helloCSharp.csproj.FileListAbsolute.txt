@@ -1,0 +1,13 @@
+C:\Users\tveed\Documents\Code\helloCSharp\bin\Debug\netcoreapp3.1\helloCSharp.exe
+C:\Users\tveed\Documents\Code\helloCSharp\bin\Debug\netcoreapp3.1\helloCSharp.deps.json
+C:\Users\tveed\Documents\Code\helloCSharp\bin\Debug\netcoreapp3.1\helloCSharp.runtimeconfig.json
+C:\Users\tveed\Documents\Code\helloCSharp\bin\Debug\netcoreapp3.1\helloCSharp.runtimeconfig.dev.json
+C:\Users\tveed\Documents\Code\helloCSharp\bin\Debug\netcoreapp3.1\helloCSharp.dll
+C:\Users\tveed\Documents\Code\helloCSharp\bin\Debug\netcoreapp3.1\helloCSharp.pdb
+C:\Users\tveed\Documents\Code\helloCSharp\obj\Debug\netcoreapp3.1\helloCSharp.csprojAssemblyReference.cache
+C:\Users\tveed\Documents\Code\helloCSharp\obj\Debug\netcoreapp3.1\helloCSharp.AssemblyInfoInputs.cache
+C:\Users\tveed\Documents\Code\helloCSharp\obj\Debug\netcoreapp3.1\helloCSharp.AssemblyInfo.cs
+C:\Users\tveed\Documents\Code\helloCSharp\obj\Debug\netcoreapp3.1\helloCSharp.csproj.CoreCompileInputs.cache
+C:\Users\tveed\Documents\Code\helloCSharp\obj\Debug\netcoreapp3.1\helloCSharp.dll
+C:\Users\tveed\Documents\Code\helloCSharp\obj\Debug\netcoreapp3.1\helloCSharp.pdb
+C:\Users\tveed\Documents\Code\helloCSharp\obj\Debug\netcoreapp3.1\helloCSharp.genruntimeconfig.cache
